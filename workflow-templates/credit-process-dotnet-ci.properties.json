@@ -1,0 +1,13 @@
+{
+    "name": "Credit Process dotnet",
+    "description": "Credit Process dotnet CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "dotnet"
+    ],
+    "filePatterns": [
+        "*.cs$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
