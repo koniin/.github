@@ -1,7 +1,7 @@
 {
     "name": "Credit Process dotnet",
     "description": "Credit Process dotnet CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "credit",
     "categories": [
         "dotnet"
     ],
