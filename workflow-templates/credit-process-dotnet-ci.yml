@@ -21,3 +21,5 @@ jobs:
     uses: koniin/.github/.github/workflows/workflow-B.yml@master
     with:
       message: Hank the tank
+    secrets:
+      token: ${{ secrets.BOGUS_TOKEN }}
