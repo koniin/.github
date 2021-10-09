@@ -18,6 +18,6 @@ jobs:
 
   call-workflow-passing-data:
     needs: build
-    uses: koniin/.github/workflows/workflow-B.yml@master
+    uses: koniin/.github/.github/workflows/workflow-B.yml@master
     with:
       message: Hank the tank
